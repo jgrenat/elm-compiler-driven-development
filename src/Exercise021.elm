@@ -1,7 +1,7 @@
-module Exercise02IntToString exposing (main)
+module Exercise021 exposing (..)
 
 import Browser
-import Html exposing (Html, button, div, h1, span, text)
+import Html exposing (Html, button, div, span, text)
 import Html.Attributes exposing (style)
 import Html.Events exposing (onClick)
 
@@ -29,9 +29,10 @@ update msg model =
 view : Model -> Html Msg
 view model =
     div [ style "padding" "1rem" ]
-        [ span [] [ text <| String.fromInt model.count ]
+        [ span [] [ text (String.fromInt model.count) ]
         , text " "
         , button [ onClick Increment ] [ text "+1" ]
+        , button [ onClick Reset ] [ text "Reset to 0" ]
         ]
 
 

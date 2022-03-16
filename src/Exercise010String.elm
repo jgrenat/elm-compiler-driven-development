@@ -1,4 +1,4 @@
-module Exercise01String exposing (main)
+module Exercise010String exposing (main)
 
 import Html
 
