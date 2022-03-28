@@ -1,0 +1,2 @@
+Quand on code une appli pour un client et qu'on doit assurer la maintenance à moyen/long terme sans faire d'évolutions, la stabilité de l'écosystème Elm rend la chose extrêmement confortable. On n'a plus peur de modifier une appli que personne n'a touché depuis des années, ce qui n'était pas le cas avec les autres frameworks. Pour moi avec Elm c'est la fin de l'obsolescence programmée du code JavaScript !
+    – @cmdevienne

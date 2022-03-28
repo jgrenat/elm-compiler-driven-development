@@ -1,4 +1,4 @@
-module Exercise021 exposing (..)
+module Exercise021CounterReset exposing (..)
 
 import Browser
 import Html exposing (Html, button, div, span, text)

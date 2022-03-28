@@ -1,5 +1,7 @@
 module Exercise011StringConcat exposing (..)
 
+import Html
+
 
 hello =
     "Hello " + "world"

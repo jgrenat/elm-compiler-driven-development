@@ -1,0 +1,2 @@
+I've been shipping Elm applications to production at Mozilla and am doing so right now for the French government. I see no risks, only benefits.
+    – Nicolas Perriault (@n1k0)

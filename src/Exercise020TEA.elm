@@ -12,7 +12,7 @@ type alias Model =
 
 initialModel : Model
 initialModel =
-    { count = 0 }
+    {}
 
 
 type Msg
@@ -29,7 +29,7 @@ update msg model =
 view : Model -> Html Msg
 view model =
     div [ style "padding" "1rem" ]
-        [ span [] [ text model.count ]
+        [ span [] [ text (String.fromInt model.count) ]
         , text " "
         , button [ onClick Increment ] [ text "+1" ]
         ]

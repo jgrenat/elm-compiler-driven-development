@@ -1,0 +1,2 @@
+Enfin on peut faire du dev front facilement, de manière ultra-fiable, avec des assets minuscules, de très bonnes perfs, et sans se sentir périmé au bout de 6 mois parce qu'il y a un nouveau framework à la mode. Elm permet de construire sur le long terme.
+    – @ccomb
