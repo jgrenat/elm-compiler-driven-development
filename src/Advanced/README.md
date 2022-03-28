@@ -1,6 +1,6 @@
 # Exercices avancés
 
-Félication, vous avez terminé la première partie ! Maintenant, c'est à 
+Déjà là ? Vous avez été rapide ! Félicitation, vous avez terminé la première partie ! Maintenant, c'est à 
 vous de jouer sur des applications plus conséquentes.
 
 Cette fois-ci le code compile, vous pouvez donc lancer l'appli pour comprendre
