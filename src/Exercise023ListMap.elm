@@ -28,7 +28,7 @@ update : Msg -> Model -> Model
 update msg model =
     case msg of
         AddShape shape ->
-            { model | shapes = model.shapes ++ shape }
+            { model | shapes = shape ++ model.shapes }
 
 
 view : Model -> Html Msg
