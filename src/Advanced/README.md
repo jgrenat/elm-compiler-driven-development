@@ -38,6 +38,8 @@ on rajoute la dernière ligne annulée.
 
 _Indication :_ il faudra probablement rajouter dans le `Model` une liste des lignes annulées...
 
+**Attention**: si l'utilisateur annule une droite et en redessine une autre, la droite 
+annulée est "perdue", on ne peut plus la rétablir.
 
 ## Jeu du Memory
 La deuxième application est dans le fichier `Advanced/ExerciseMemoryGame.elm`.
