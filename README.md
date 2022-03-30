@@ -52,6 +52,10 @@ L'atelier a été pensé pour fonctionner avec ces erreurs telles qu'elles sont 
 Une fois que le code compile, c'est que l'exercice est réussi, vous pouvez passer à l'exercice suivant ! 🎉
 
 Une fois les exercices "simples" réussis, vous pouvez passer au niveau supérieur dans le dossier `Advanced`.
+Vous utiliserez alors la même méthode pour développer de nouvelles fonctionnalités sur une application
+existante : écrire un code provoquant une erreur de compilation et laisser le compilateur
+vous guider. C'est un procédé très efficace quelque soit la taille du projet sur lequel vous travaillez.
+C'est ce qu'on appelle le _Compiler-Driven-Development_ !
 
 ## Vous êtes bloqué ?
 
