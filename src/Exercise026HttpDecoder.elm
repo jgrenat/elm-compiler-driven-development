@@ -1,4 +1,4 @@
-module Exercise025HttpDecoder exposing (..)
+module Exercise026HttpDecoder exposing (..)
 
 import Browser
 import Html exposing (..)

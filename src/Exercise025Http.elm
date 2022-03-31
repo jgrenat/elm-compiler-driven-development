@@ -1,4 +1,4 @@
-module Exercise024Http exposing (..)
+module Exercise025Http exposing (..)
 
 import Browser
 import Html exposing (Html, button, div, img, pre, text)
