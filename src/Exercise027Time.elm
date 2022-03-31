@@ -1,4 +1,4 @@
-module Exercise026Time exposing (..)
+module Exercise027Time exposing (..)
 
 import Browser
 import Html exposing (..)
