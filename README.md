@@ -9,7 +9,11 @@ Mais d'abord, commençons par installer Elm :
 
 ## Installation de Elm
 
-Vous pouvez télécharger et installer Elm [depuis cette page](https://guide.elm-lang.org/install/elm.html) du guide officiel.
+Deux méthodes pour installer Elm. Vous pouvez soit le télécharger et l'installer [depuis cette page](https://guide.elm-lang.org/install/elm.html) (recommandé) du guide officiel, soit utiliser `npm` avec la commande suivante :
+
+```
+npm install --global elm
+```
 
 ## Installer le support Elm pour votre éditeur
 
