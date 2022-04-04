@@ -26,6 +26,11 @@ Maintenant que Elm est installé, vous pouvez configurer votre éditeur de texte
 - [Vim](https://github.com/ElmCast/elm-vim)
 - [VS Code](https://marketplace.visualstudio.com/items?itemName=Elmtooling.elm-ls-vscode)
 
+**Note :** l'atelier a été pensé pour fonctionner avec les erreurs telles qu'elles sont affichées par le compilateur. Les messages affichés par les
+plugins ci-dessus ne correspondent pas exactement aux erreurs du compilateur.
+Nous vous conseillons donc "d'ignorer" les erreurs affichées dans votre éditeur
+_pour cet atelier_ et de plus se référer à celles affichées dans le navigateur.
+
 
 ## Récupérer l'atelier
 
@@ -50,8 +55,6 @@ Chaque fichier représente un exercice. Vous pouvez commencer un exercice en l'o
 l'adresse http://localhost:8000/src/Exercise010String.elm pour le premier. 
 
 Ne soyez pas surpris si une erreur apparaît, c'est normal ! Lisez-la attentivement, le compilateur est votre mentor pour la corriger ! 💪
-
-L'atelier a été pensé pour fonctionner avec ces erreurs telles qu'elles sont affichées par le compilateur. Si votre éditeur de texte vous affiche également les erreurs, sachez que celles de Elm Reactor sont plus détaillées et plus faciles à comprendre.
 
 Une fois que le code compile, c'est que l'exercice est réussi, vous pouvez passer à l'exercice suivant ! 🎉
 
