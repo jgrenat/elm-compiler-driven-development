@@ -85,7 +85,7 @@ viewGif model =
 getRandomCatGif : Cmd Msg
 getRandomCatGif =
     Http.get
-        { url = "https://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&tag=cat"
+        { url = "https://api.giphy.com/v1/gifs/random?api_key=kOZdCy0KDR2n8Y83kawP0zdqUMqpHYRj&tag=cat"
         , expect = Http.expectJson GifReceived gifDecoder
         }
 
@@ -105,7 +105,7 @@ gifDecoder =
     --   ...,
     -- }
     -- Vous pouvez voir sa forme complète au lien suivant :
-    -- https://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&tag=cat
+    -- https://api.giphy.com/v1/gifs/random?api_key=kOZdCy0KDR2n8Y83kawP0zdqUMqpHYRj&tag=cat
     Json.Decode.map2 Cat
         (Json.Decode.at [ "data", "title" ] Json.Decode.int)
         (Json.Decode.at [ "data", "images", "original", "url" ] Json.Decode.string)

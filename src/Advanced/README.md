@@ -28,7 +28,7 @@ Html.button
     , style "font-size" "20pt"
     , style "margin" "5px"
     ]
-    [ Html.text "Recommencer" ]
+    [ Html.text "Annuler" ]
 ```
 
 ### Rejouer la dernière action annulée
