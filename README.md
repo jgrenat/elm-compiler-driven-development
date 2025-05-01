@@ -2,6 +2,8 @@
 
 <img src="./resources/elm-logo.svg" alt="" role="presentation" width="150" height="150" />
 
+_🇬🇧 If you're looking for the english version of this workshop, [click here](https://github.com/jgrenat/elm-compiler-driven-development-en)._
+
 Bienvenue dans notre workshop pour découvrir le langage Elm et un nouveau paradigme de programmation : 
 laisser le compilateur vous dire quoi faire !
 
