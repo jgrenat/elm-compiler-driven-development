@@ -69,3 +69,8 @@ C'est ce qu'on appelle le _Compiler-Driven-Development_ !
 ## Vous êtes bloqué ?
 
 Pas de panique, on est là pour vous aider ! Levez la main frénétiquement et on arrive ! 🙋‍♀️🙋‍♂️
+
+## Auteurs
+
+Ce workshop a été conçu par [Sébastien Besnier](https://github.com/sebsheep) et [Jordane Grenat](https://github.com/jgrenat).
+Vous pouvez le réutiliser sans souci pour découvrir Elm ou le faire découvrir. Vos retours sont les bienvenus !
